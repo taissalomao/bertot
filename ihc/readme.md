@@ -20,4 +20,20 @@
  #### 📌 Status do projeto: Em andamento. :construction:	
   
  <a href="#inicio">[Voltar ao início]</a>
+
+<h3 align="center">3.1 Readable</h3>
+
+<p>O objetivo dessa heurística é priorizar a leitura confortável para quem está acessando ao site. O que não ocorre no site da Saint Laurent, com textos extremamente pequenos e colocados em cantos quase inacessíveis</p>
+
+<div align="center">
+        <img alt="Textos muito pequenos." src="https://i.imgur.com/RxrePIn.png">
+</div>
+
+<p>Já no site da Bing, encontra-se as informações bem organizadas, com fonte em tamanho adequado e de fácil leitura.</p>
+
+<div align="center">
+        <img alt="Textos muito pequenos." src="https://imgur.com/PtNElXJ.png">
+</div>
+
+
   
