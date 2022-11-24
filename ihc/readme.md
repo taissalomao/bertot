@@ -19,7 +19,6 @@
 ![Trabalho IHC](/ihc/imagens/versao_mobile.png "Erro de heuristica")
  #### 📌 Status do projeto: Em andamento. :construction:	
   
- <a href="#inicio">[Voltar ao início]</a>
 
 <h3 align="center">3.1 Readable</h3>
 
@@ -29,11 +28,33 @@
         <img alt="Textos muito pequenos." src="https://i.imgur.com/RxrePIn.png">
 </div>
 
+<br>
+
 <p>Já no site da Bing, encontra-se as informações bem organizadas, com fonte em tamanho adequado e de fácil leitura.</p>
 
+<br><br>
+
 <div align="center">
-        <img alt="Textos muito pequenos." src="https://imgur.com/PtNElXJ.png">
+        <img src="https://imgur.com/PtNElXJ.png">
 </div>
+
+<h3 align="center">2.0 Operable</h3>
+
+<p>O erro desse site está no ponto 2.3.1- Three Flashes or Below Threshold</p>
+
+<p>O site oferece um grave risco a saúde do usuário, uma vez que pode causar convulsões no mesmo porque apresenta cores vibrantes, uma animação em loop.</p>
+
+<div align="center">
+        <img alt="Textos muito pequenos." src="https://imgur.com/FOFl9hC.png.png">
+</div>
+
+<br>
+ <a href="#inicio">[Voltar ao início]</a>
+
+
+
+
+
 
 
   
