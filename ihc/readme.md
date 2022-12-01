@@ -38,6 +38,28 @@
         <img src="https://imgur.com/PtNElXJ.png">
 </div>
 
+<br>
+
+<h3 align="center">Visibilidade do status do sistema</h3>
+
+<p>O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface da netflix, que ficam  abaixo do vídeo, mostrando qual episódio da lista estamos assistindo,o quanto já assistimos, quais os próximos e quais já foram assistidos.</p>
+
+<br><br>
+
+<div align="center">
+        <img src=" https://imgur.com/GwsY0uu.png">
+</div>
+
+<h3 align="center">Design</h3>
+
+<p> O site taxija tiliza exageradamente de informações e elementos na tela, causando cansaço mental ao interagir com o site e não estabelece harmonia visual.</p>
+
+<br><br>
+
+<div align="center">
+        <img src=" https://imgur.com/kFngkxx.png">
+</div>
+
 <h3 align="center">2.0 Operable</h3>
 
 <p>O erro desse site está no ponto 2.3.1- Three Flashes or Below Threshold</p>
@@ -50,6 +72,8 @@
 
 <br>
  <a href="#inicio">[Voltar ao início]</a>
+
+
 
 
 
